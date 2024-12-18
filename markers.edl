@@ -1,0 +1,35 @@
+TITLE: markers
+FCM: NON-DROP FRAME
+
+001  001      V     C        00:00:00:00 00:00:34:11 00:00:34:10 00:00:34:11  
+ |C:ResolveColorBlue |M:00_strt |D:1
+001  001      V     C        00:00:34:10 00:00:34:11 00:00:34:10 00:00:34:11  
+ |C:ResolveColorBlue |M:01_Miniature_Overture |D:1
+
+002  001      V     C        00:03:49:19 00:03:49:20 00:03:49:19 00:03:49:20  
+ |C:ResolveColorBlue |M:02_March |D:1
+
+003  001      V     C        00:06:18:22 00:06:18:23 00:06:18:22 00:06:18:23  
+ |C:ResolveColorBlue |M:03_Dance_of_the_Sugar_Plum_Fairy |D:1
+
+004  001      V     C        00:08:46:04 00:08:46:05 00:08:46:04 00:08:46:05  
+ |C:ResolveColorBlue |M:04_Russian_Dance |D:1
+
+005  001      V     C        00:09:58:03 00:09:58:04 00:09:58:03 00:09:58:04  
+ |C:ResolveColorBlue |M:05_Arabian_Dance |D:1
+
+006  001      V     C        00:13:50:16 00:13:50:17 00:13:50:16 00:13:50:17  
+ |C:ResolveColorBlue |M:06_Chinese_Dance |D:1
+
+007  001      V     C        00:14:59:11 00:14:59:12 00:14:59:11 00:14:59:12  
+ |C:ResolveColorBlue |M:07_Dance_of_the_Reed_Flutes |D:1
+
+008  001      V     C        00:17:27:17 00:17:27:18 00:17:27:17 00:17:27:18  
+ |C:ResolveColorBlue |M:08_Waltz_of_the_Flowers |D:1
+
+009  001      V     C        00:24:07:05 00:24:07:06 00:24:07:05 00:24:07:06  
+ |C:ResolveColorBlue |M:end_animation |D:1
+
+010  001      V     C        00:26:19:00 00:26:20:01 00:26:20:00 00:26:20:01  
+ |C:ResolveColorBlue |M:end |D:1
+
